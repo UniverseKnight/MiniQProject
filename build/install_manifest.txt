@@ -1,0 +1,10 @@
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/_setup_util.py
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/env.sh
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/setup.bash
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/setup.sh
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/setup.zsh
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/.rosinstall
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/lib/pkgconfig/simple_miniq_driver.pc
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/share/simple_miniq_driver/cmake/simple_miniq_driverConfig.cmake
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/share/simple_miniq_driver/cmake/simple_miniq_driverConfig-version.cmake
+/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/share/simple_miniq_driver/package.xml
