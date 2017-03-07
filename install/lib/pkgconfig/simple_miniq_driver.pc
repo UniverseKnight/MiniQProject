@@ -1,8 +1,0 @@
-prefix=/home/mtata/Robotics/Ros_Arduino/MiniQProject/install
-
-Name: simple_miniq_driver
-Description: Description of simple_miniq_driver
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/mtata/Robotics/Ros_Arduino/MiniQProject/install/lib 
-Requires: 

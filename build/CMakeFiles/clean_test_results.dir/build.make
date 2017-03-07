@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mtata/Robotics/Ros_Arduino/MiniQProject/src
+CMAKE_SOURCE_DIR = /home/ubuntu/code/MecanumPub/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mtata/Robotics/Ros_Arduino/MiniQProject/build
+CMAKE_BINARY_DIR = /home/ubuntu/code/MecanumPub/build
 
 # Utility rule file for clean_test_results.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/mtata/Robotics/Ros_Arduino/MiniQProject/build
 include CMakeFiles/clean_test_results.dir/progress.make
 
 CMakeFiles/clean_test_results:
-	/usr/bin/python /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /home/mtata/Robotics/Ros_Arduino/MiniQProject/build/test_results
+	/usr/bin/python /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /home/ubuntu/code/MecanumPub/build/test_results
 
 clean_test_results: CMakeFiles/clean_test_results
 clean_test_results: CMakeFiles/clean_test_results.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/clean_test_results.dir/clean:
 .PHONY : CMakeFiles/clean_test_results.dir/clean
 
 CMakeFiles/clean_test_results.dir/depend:
-	cd /home/mtata/Robotics/Ros_Arduino/MiniQProject/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mtata/Robotics/Ros_Arduino/MiniQProject/src /home/mtata/Robotics/Ros_Arduino/MiniQProject/src /home/mtata/Robotics/Ros_Arduino/MiniQProject/build /home/mtata/Robotics/Ros_Arduino/MiniQProject/build /home/mtata/Robotics/Ros_Arduino/MiniQProject/build/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ubuntu/code/MecanumPub/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ubuntu/code/MecanumPub/src /home/ubuntu/code/MecanumPub/src /home/ubuntu/code/MecanumPub/build /home/ubuntu/code/MecanumPub/build /home/ubuntu/code/MecanumPub/build/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/clean_test_results.dir/depend
 

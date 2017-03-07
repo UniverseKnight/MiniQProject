@@ -7,9 +7,9 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/mtata/Robotics/Ros_Arduino/MiniQProject/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/mtata/Robotics/Ros_Arduino/MiniQProject/devel/lib:$LD_LIBRARY_PATH"
-export PKG_CONFIG_PATH="/home/mtata/Robotics/Ros_Arduino/MiniQProject/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
-export PWD="/home/mtata/Robotics/Ros_Arduino/MiniQProject/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/mtata/Robotics/Ros_Arduino/MiniQProject/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/mtata/Robotics/Ros_Arduino/MiniQProject/src:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/ubuntu/code/MecanumPub/devel:/opt/ros/kinetic"
+export LD_LIBRARY_PATH="/opt/ros/kinetic/lib/arm-linux-gnueabihf:/home/ubuntu/code/MiniQProject/devel/lib:/opt/ros/kinetic/lib"
+export PKG_CONFIG_PATH="/opt/ros/kinetic/lib/pkgconfig"
+export PWD="/home/ubuntu/code/MecanumPub/build"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/ubuntu/code/MecanumPub/devel/share/common-lisp"
+export ROS_PACKAGE_PATH="/home/ubuntu/code/MecanumPub/src:/opt/ros/kinetic/share:/opt/ros/kinetic/stacks"

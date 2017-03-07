@@ -1,8 +1,8 @@
 # CMake generated Testfile for 
-# Source directory: /home/mtata/Robotics/Ros_Arduino/MiniQProject/src
-# Build directory: /home/mtata/Robotics/Ros_Arduino/MiniQProject/build
+# Source directory: /home/ubuntu/code/MecanumPub/src
+# Build directory: /home/ubuntu/code/MecanumPub/build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 subdirs(gtest)
-subdirs(simple_miniq_driver)
+subdirs(mecanum_pub_driver)

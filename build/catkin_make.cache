@@ -1,2 +1,2 @@
-simple_miniq_driver
--DCATKIN_DEVEL_PREFIX=/home/mtata/Robotics/Ros_Arduino/MiniQProject/devel -DCMAKE_INSTALL_PREFIX=/home/mtata/Robotics/Ros_Arduino/MiniQProject/install -G Unix Makefiles
+mecanum_pub_driver
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/code/MecanumPub/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/code/MecanumPub/install -G Unix Makefiles

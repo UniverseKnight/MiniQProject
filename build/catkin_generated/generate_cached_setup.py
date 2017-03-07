@@ -19,9 +19,9 @@ except ImportError:
             break
     from catkin.environment_cache import generate_environment_script
 
-code = generate_environment_script('/home/mtata/Robotics/Ros_Arduino/MiniQProject/devel/env.sh')
+code = generate_environment_script('/home/ubuntu/code/MecanumPub/devel/env.sh')
 
-output_filename = '/home/mtata/Robotics/Ros_Arduino/MiniQProject/build/catkin_generated/setup_cached.sh'
+output_filename = '/home/ubuntu/code/MecanumPub/build/catkin_generated/setup_cached.sh'
 with open(output_filename, 'w') as f:
     #print('Generate script for cached setup "%s"' % output_filename)
     f.write('\n'.join(code))

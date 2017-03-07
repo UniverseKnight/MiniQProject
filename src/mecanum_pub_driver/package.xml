@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>simple_miniq_driver</name>
+  <name>mecanum_pub_driver</name>
   <version>0.0.0</version>
-  <description>The simple_miniq_driver package</description>
+  <description>The mecanum_pub package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->

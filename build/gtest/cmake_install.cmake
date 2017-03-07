@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/mtata/Robotics/Ros_Arduino/MiniQProject/install")
+  set(CMAKE_INSTALL_PREFIX "/home/ubuntu/code/MecanumPub/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
